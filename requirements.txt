@@ -1,1 +1,8 @@
 Requirements
+
+jupyterlab 
+numpy 
+pandas
+matplotlib 
+seaborn 
+scipy

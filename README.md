@@ -10,8 +10,18 @@ Project 4 uses a combination of Python and Markdown to create an initial data st
 
 py -m venv .venv
 .venv\Scripts\Activate
-py -m pip install -r "requirements.txt"
 
 ```
 git add .
 ```
+
+## How to Install and Run the Project
+
+Install packages separately
+
+py -m pip install jupyterlab  
+py -m pip install numpy  
+py -m pip install pandas  
+py -m pip install matplotlib  
+py -m pip install seaborn  
+py -m pip install scipy
