@@ -13,6 +13,8 @@ py -m venv .venv
 
 ```
 git add .
+git commit -m
+git push -u origin main
 ```
 
 ## How to Install and Run the Project
