@@ -47,7 +47,18 @@ import requests
 import jupyterlab
 import pyarrow
 
+###  Steps for EDA
 
+Perform exploratory data analysis (EDA) using pandas and other tools as needed. 
+
+1.  Data Acquisition
+2.  Initial Data Inspection
+3.  Initial Descriptive Statistics
+4.  Initial Data Distribution for Numerical Columns
+5.  Initial Data Distribution for Categorical Columns
+6.  Initial Data Transformation and Feature Engineering
+7.  Initial Visualizations
+8.  Initial Storytelling and Presentation
 
 
 
